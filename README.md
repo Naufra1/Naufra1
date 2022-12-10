@@ -1,4 +1,4 @@
-## Olá eu sou Gustavo Soares, estudande de Desenvolvimento Full-Stack.
+## Olá eu sou Gustavo Soares, estudante de Desenvolvimento Full-Stack.
 <div align="center">
   <a href="https://github.com/Naufra1">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Naufra1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
