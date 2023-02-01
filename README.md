@@ -1,7 +1,7 @@
 ## Olá eu sou Gustavo Soares, estudante de Desenvolvimento Full-Stack.
 <div align="center">
   <a href="https://github.com/Naufra1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naufra1&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Naufra1&show_icons=true&theme=github_dark&count_private=true&include_all_commits=false"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufra1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
